@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="ApplicationName">SIGE</string>
+
+  <string name="planet_prompt">Choose a planet</string>
+  <string-array name="planets_array">
+    <item>Mercury</item>
+    <item>Venus</item>
+    <item>Earth</item>
+    <item>Mars</item>
+    <item>Jupiter</item>
+    <item>Saturn</item>
+    <item>Uranus</item>
+    <item>Neptune</item>
+  </string-array>
+
+  <string name="lugar_prompt">Seleccione un lugar</string>
+  <string-array name="lugar_array">
+    <item>Juegos Infantiles</item>
+    <item>Piscina</item>
+    <item>Salones</item>
+  </string-array>
+</resources>
